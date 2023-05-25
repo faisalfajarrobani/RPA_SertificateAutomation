@@ -2,7 +2,7 @@
 
 # RPA_SertificateAutomation
 This is a certificate delivery automation software project
-Can be used to automatically enty data from excel file to certificate template and submit webinar certificate to email participate. 
+Can be used to automatically entry data from excel file to certificate template and submit webinar certificate to email participate. 
 Project build with UIPath
 
 Setup requirements :
