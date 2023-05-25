@@ -1,7 +1,26 @@
+
+
 # RPA_SertificateAutomation
 This is a certificate delivery automation software project
 Can be used to automatically submit webinar certificate to email participate. 
 Project build with UIPath
+
+Setup requirements :
+Before start the automation using photoshop:
+1. You have photoshop certificate template files
+2. Then open photoshop application
+3. Open photoshop certificate template files
+4. Then you swipe text layer "Participant Name" to top
+5. Be sure photoshop application stay open, until the automation process stop running
+
+Before start the automation using power point :
+1. You have power point certificate template files
+2. Then open power point application
+3. Open Power point certificate template files
+4. You have remember default text from field "name participant",
+   so that robot can find the field to replace name in excel file
+5. You have close power point application
+
 
 How To Use This Projects :
 1). Download the zip file in the repository, then extract it on your desktop or computer
