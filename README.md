@@ -6,6 +6,7 @@ Can be used to automatically submit webinar certificate to email participate.
 Project build with UIPath
 
 Setup requirements :
+
 Before start the automation using photoshop:
 1. You have photoshop certificate template files
 2. Then open photoshop application
