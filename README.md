@@ -36,7 +36,7 @@ Project Application Steps:
 3. On the next occasion, enter the name of the column that is used as a reference in writing the name. This is useful as a reference for robots to change names in files later
 4. Next, enter the name of the column that is used as a reference in writing and sending emails. this is useful so that later the robot can send certificates automatically through a third party (Microsoft Outlook). Notes: Make sure you are logged in and have a Microsoft Outlook account
 5. Select Software application options, there are 2 options
-    - Photoshop (Recommended)
+    - Photoshop
     - Power point
 6. In the next column, enter a Subject which will be the subject of your email message. you can write your company name like "RPA Company"
 7. In the next field, fill in the message that will be conveyed to the recipient.
