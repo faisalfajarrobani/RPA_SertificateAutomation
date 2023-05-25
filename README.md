@@ -19,7 +19,7 @@ Before start the automation "using power point" :
 2. Then open power point application
 3. Open Power point certificate template files
 4. You have remember default text from field "name participant",
-   so that robot can find the field to replace name in excel file
+   which will be used as a reference by the robot to find the text to be replaced
 5. You have close power point application
 
 
