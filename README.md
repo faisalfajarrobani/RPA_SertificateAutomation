@@ -7,14 +7,14 @@ Project build with UIPath
 
 Setup requirements :
 
-Before start the automation using photoshop:
+Before start the automation "using photoshop":
 1. You have photoshop certificate template files
 2. Then open photoshop application
 3. Open photoshop certificate template files
 4. Then you swipe text layer "Participant Name" to top
 5. Be sure photoshop application stay open, until the automation process stop running
 
-Before start the automation using power point :
+Before start the automation "using power point" :
 1. You have power point certificate template files
 2. Then open power point application
 3. Open Power point certificate template files
