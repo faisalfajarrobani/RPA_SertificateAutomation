@@ -6,7 +6,7 @@ Can be used to automatically entry data from excel file to certificate template 
 Project build with UIPath
 
 Requirements :
-You must use Microsoft Outlook with a minimum version of 2019
+You must use Microsoft Outlook and power point with a minimum version of 2019
 and you have default account in outlook dekstop application
 
 Setup requirements :
