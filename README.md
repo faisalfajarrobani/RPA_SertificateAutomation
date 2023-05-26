@@ -3,7 +3,7 @@
 # RPA_SertificateAutomation
 This is a certificate delivery automation software project
 Can be used to automatically entry data from excel file to certificate template and submit webinar certificate to email participate. 
-Project build with UIPath
+Project build with UIPath Studio
 
 Requirements :
 You must use Microsoft Outlook and power point with a minimum version of 2019
